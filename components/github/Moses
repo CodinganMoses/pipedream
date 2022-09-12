@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border:1px solid black; 
+}
+</style>
+</head>
+    <title>Jadwal Mata Kuliah</title>
+    
+    <body style="background-color:white;">
+        <center><h1>Jadwal Menguli Kampus</h1></center>
+
+<body>
+    <table style="height: 100%; width: 100%;">
+  <tr>
+    <td style="background-color: lightblue;">Hari/Jam</td>
+    <td style="background-color: lightblue;">Senin</td>
+    <td style="background-color: lightblue;">Selasa</td>
+    <td style="background-color: lightblue;">Rabu</td>
+    <td style="background-color: lightblue;">Kamis</td>
+    <td style="background-color: lightblue;">Jumat</td>
+    <td style="background-color: lightblue;">Sabtu</td>
+
+  </tr>
+  <tr>
+    <td style="background-color: lightblue;">7-8</td>
+    <td></td>
+    <td style="background-color: lightgrey;">Algo Optimasi</td>
+    <td style="background-color: lightgrey;">Pengenalan Pola</td>
+    <td style="background-color: lightgrey;">Pemrograman Platform praktek</td>
+    <td style="background-color: lightgrey;">Pengenalan Pola Praktek</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="background-color: lightblue;">8-9</td>
+    <td></td>
+    <td style="background-color: lightgrey;">Algo Optimasi</td>
+    <td style="background-color: lightgrey;">Pengenalan Pola</td>
+    <td style="background-color: lightgrey;">Pemrograman Platform praktek</td>
+    <td style="background-color: lightgrey;">Pengenalan Pola Praktek</td>
+    <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">9-10</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Algo Optimasi</td>
+        <td style="background-color: lightgrey;">Pengenalan Pola</td>
+        <td style="background-color: lightgrey;">Pemrograman Platform praktek</td>
+        <td style="background-color: lightgrey;">Pengenalan Pola Praktek</td>
+        <td></td>
+         </tr> 
+    <tr>
+        <td style="background-color: lightblue;">10-11</td>
+        <td style="background-color: lightgrey;">Strategi Algoritma</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Administrasi Basis Data</td>
+        <td style="background-color: lightgrey;">RPL Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">11-12</td>
+        <td style="background-color: lightgrey;">Strategi Algoritma</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Administrasi Basis Data</td>
+        <td style="background-color: lightgrey;">RPL Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">12-13</td>
+        <td style="background-color: lightgrey;">Strategi Algoritma</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Administrasi Basis Data</td>
+        <td style="background-color: lightgrey;">RPL Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">13-14</td>
+        <td></td>
+        <td style="background-color: lightgrey;">RPL</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">14-15</td>
+        <td></td>
+        <td style="background-color: lightgrey;">RPL</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Algo Optimasi Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">15-16</td>
+        <td></td>
+        <td style="background-color: lightgrey;">RPL</td>
+        <td></td>
+        <td style="background-color: lightgrey;">Algo Optimasi Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">16-17</td>
+        <td style="background-color: lightgrey;">Pemrograman Platform</td>
+        <td></td>
+        <td></td>
+        <td style="background-color: lightgrey;">Algo Optimasi Praktek</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">17-18</td>
+        <td style="background-color: lightgrey;">Pemrograman Platform</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td style="background-color: lightblue;">18-19</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+        
+</table>
+    
+  
